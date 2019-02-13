@@ -47,4 +47,6 @@ figcaption {
 
 /* Descendent Selector */
 
-#logo
+#logo h1 { /* selects <h1> if inside the id
+  
+}
